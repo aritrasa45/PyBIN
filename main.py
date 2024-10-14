@@ -2,6 +2,10 @@ import argparse
 import os
 import sys
 
+"""
+enter -h with the filename in terminal to know
+more about this tool.
+"""
 
 parser = argparse.ArgumentParser(description='BinFetcheR How to use ------->>>')
 
